@@ -1,0 +1,3 @@
+/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/QCPP.dir
