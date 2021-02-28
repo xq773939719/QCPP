@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/XQ/Desktop/Codes/QCPP/Test/Test.h
+iostream
+-
+
+C:/Users/XQ/Desktop/Codes/QCPP/main.cpp
+iostream
+-
+Test/Test.h
+C:/Users/XQ/Desktop/Codes/QCPP/Test/Test.h
+

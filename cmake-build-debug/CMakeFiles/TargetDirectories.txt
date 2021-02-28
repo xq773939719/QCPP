@@ -1,3 +1,6 @@
-/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/QCPP.dir
+C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/CMakeFiles/QCPP.dir
+C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/Test/CMakeFiles/rebuild_cache.dir
+C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/Test/CMakeFiles/Test.dir
+C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/Test/CMakeFiles/edit_cache.dir

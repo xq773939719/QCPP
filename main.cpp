@@ -1,6 +1,6 @@
 #include <iostream>
+#include "Test/Test.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    auto t = std::make_shared<Test>();
 }

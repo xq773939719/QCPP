@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/xq/代码/随便做做/QCPP/main.cpp" "/Users/xq/代码/随便做做/QCPP/cmake-build-debug/CMakeFiles/QCPP.dir/main.cpp.o"
+  "C:/Users/XQ/Desktop/Codes/QCPP/main.cpp" "C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/CMakeFiles/QCPP.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

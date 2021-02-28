@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/QCPP.dir/main.cpp.o"
-  "QCPP"
+  "CMakeFiles/QCPP.dir/main.cpp.obj"
+  "QCPP.exe"
+  "QCPP.exe.manifest"
+  "QCPP.lib"
   "QCPP.pdb"
 )
 
