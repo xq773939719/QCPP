@@ -9,8 +9,8 @@
 
 class Test {
 public:
-    Test() { std::cout << "Test()" << std::endl; }
-    ~Test() { std::cout << "~Test()" << std::endl; }
+    Test() { std::cout << "test()" << std::endl; }
+    ~Test() { std::cout << "test()" << std::endl; }
 };
 
 

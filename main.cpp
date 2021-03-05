@@ -1,6 +1,7 @@
 #include <iostream>
-#include "Test/Test.h"
+#include "src/gl/gl.h"
 
 int main() {
-    auto t = std::make_shared<Test>();
+    auto ptr = GL::Create();
+    return 0;
 }
