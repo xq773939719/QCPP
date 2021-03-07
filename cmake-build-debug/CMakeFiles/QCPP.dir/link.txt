@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/QCPP.dir/main.cpp.o  -o ../build/bin/QCPP  -Wl,-rpath,/home/linuxbrew/.linuxbrew/lib ../build/lib/libTest.a ../build/lib/libGL.a ../build/lib/libBase.a /home/linuxbrew/.linuxbrew/lib/libGLEW.so /home/linuxbrew/.linuxbrew/lib/libglfw.so -lGL -lglut 

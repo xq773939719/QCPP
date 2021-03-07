@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xq/代码/QCPP/src/base/q_time.cpp
+q_time.h
+/home/xq/代码/QCPP/src/base/q_time.h
+ctime
+-
+cstdio
+-
+
+/home/xq/代码/QCPP/src/base/q_time.h
+

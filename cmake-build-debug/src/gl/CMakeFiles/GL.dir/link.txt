@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../build/lib/libGL.a  CMakeFiles/GL.dir/gl.cpp.o
+/usr/bin/ranlib ../../../build/lib/libGL.a
