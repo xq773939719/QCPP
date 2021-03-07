@@ -1,2 +1,2 @@
-/usr/bin/ar qc ../../build/lib/libTest.a  CMakeFiles/Test.dir/test.cpp.o
-/usr/bin/ranlib ../../build/lib/libTest.a
+C:\MinGW\bin\ar.exe qc ..\..\build\lib\libTest.a  CMakeFiles/Test.dir/test.cpp.obj
+C:\MinGW\bin\ranlib.exe ..\..\build\lib\libTest.a

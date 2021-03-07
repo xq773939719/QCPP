@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="QCPP" targetName="GL" />
@@ -11,11 +14,79 @@
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2decc51e-23ed-49c8-8f6b-134f928f67a6" name="Default Changelist" comment="modify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/libBase.a" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/libBase.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/libGL.a" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/libGL.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/libTest.a" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/libTest.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QCPP.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/QCPP.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/QCPP.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/cmake_clean_target.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/Base.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/base/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/base/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/cmake_clean_target.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/CMakeFiles/GL.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/gl/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/gl/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/cmake_clean_target.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/Test.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gl/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/gl/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +182,7 @@
       <workItem from="1615118168781" duration="81000" />
       <workItem from="1615118927884" duration="301000" />
       <workItem from="1615119390835" duration="386000" />
+      <workItem from="1615122512699" duration="6236000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1614480865184</created>

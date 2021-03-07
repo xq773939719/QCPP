@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/xq/代码/QCPP/test/test.cpp" "/home/xq/代码/QCPP/cmake-build-debug/test/CMakeFiles/Test.dir/test.cpp.o"
+  "C:/Users/XQ/Desktop/Codes/QCPP/test/test.cpp" "C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/test/CMakeFiles/Test.dir/test.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

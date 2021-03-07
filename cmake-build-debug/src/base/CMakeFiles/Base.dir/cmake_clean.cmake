@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "../../../build/lib/libBase.a"
-  "../../../build/lib/libBase.pdb"
-  "CMakeFiles/Base.dir/q_time.cpp.o"
+  "../../../build/lib/Base.lib"
+  "../../../build/lib/Base.pdb"
+  "CMakeFiles/Base.dir/q_time.cpp.obj"
 )
 
 # Per-language clean rules from dependency scanning.

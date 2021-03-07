@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "../../../build/lib/libGL.a"
-  "../../../build/lib/libGL.pdb"
-  "CMakeFiles/GL.dir/gl.cpp.o"
+  "../../../build/lib/GL.lib"
+  "../../../build/lib/GL.pdb"
+  "CMakeFiles/GL.dir/gl.cpp.obj"
 )
 
 # Per-language clean rules from dependency scanning.

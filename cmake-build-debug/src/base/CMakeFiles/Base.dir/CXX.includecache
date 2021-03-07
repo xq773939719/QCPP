@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/xq/代码/QCPP/src/base/q_time.cpp
+C:/Users/XQ/Desktop/Codes/QCPP/src/base/q_time.cpp
 q_time.h
-/home/xq/代码/QCPP/src/base/q_time.h
+C:/Users/XQ/Desktop/Codes/QCPP/src/base/q_time.h
 ctime
 -
 cstdio
 -
 
-/home/xq/代码/QCPP/src/base/q_time.h
+C:/Users/XQ/Desktop/Codes/QCPP/src/base/q_time.h
 

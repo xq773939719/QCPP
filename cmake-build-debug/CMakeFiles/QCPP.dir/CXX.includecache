@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/xq/代码/QCPP/main.cpp
+C:/Users/XQ/Desktop/Codes/QCPP/main.cpp
 iostream
 -
 src/gl/gl.h
-/home/xq/代码/QCPP/src/gl/gl.h
+C:/Users/XQ/Desktop/Codes/QCPP/src/gl/gl.h
 
-/home/xq/代码/QCPP/src/gl/gl.h
+C:/Users/XQ/Desktop/Codes/QCPP/src/gl/gl.h
 memory
 -
 

@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/xq/代码/QCPP/src/gl/gl.cpp" "/home/xq/代码/QCPP/cmake-build-debug/src/gl/CMakeFiles/GL.dir/gl.cpp.o"
+  "C:/Users/XQ/Desktop/Codes/QCPP/src/gl/gl.cpp" "C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug/src/gl/CMakeFiles/GL.dir/gl.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/linuxbrew/.linuxbrew/include/GL"
-  "/home/linuxbrew/.linuxbrew/include/GLFW"
+  "D:/LIBRARY/glew/include/GL"
+  "D:/LIBRARY/glfw/include/GLFW"
   "../src/base"
   )
 

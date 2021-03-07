@@ -1,2 +1,2 @@
-/usr/bin/ar qc ../../../build/lib/libGL.a  CMakeFiles/GL.dir/gl.cpp.o
-/usr/bin/ranlib ../../../build/lib/libGL.a
+C:\MinGW\bin\ar.exe qc ..\..\..\build\lib\libGL.a  CMakeFiles/GL.dir/gl.cpp.obj
+C:\MinGW\bin\ranlib.exe ..\..\..\build\lib\libGL.a

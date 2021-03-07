@@ -1,3 +1,3 @@
 file(REMOVE_RECURSE
-  "../../../build/lib/libGL.a"
+  "../../../build/lib/GL.lib"
 )

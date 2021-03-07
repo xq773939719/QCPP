@@ -29,17 +29,19 @@ elseif (UNIX)
     # 添加目标链接
     set(GLEW_LINK ${DIRECTORY}/lib/libGLEW.so)
     set(GLFW_LINK ${DIRECTORY}/lib/libglfw.so)
-elseif(WIN32)
-    set(DIRECTORY /home/linuxbrew/.linuxbrew)
+elseif (WIN32)
+    # fail
+    set(DIRECTORY D:\\\\LIBRARY\\)
     # 添加头文件
-    set(GLEW_H ${DIRECTORY}/include/GLEW)
-    set(GLFW_H ${DIRECTORY}/include/GLFW)
+    set(GLEW_H ${DIRECTORY}\\glew\\include\\GL)
+    set(GLFW_H ${DIRECTORY}\\glfw\\include\\GLFW)
 
     # 添加目标链接
-    set(GLEW_LINK ${DIRECTORY}/Cellar/glew/2.2.0_2/lib/libGLEW.so)
-    set(GLFW_LINK ${DIRECTORY}/Cellar/glfw/3.3.3/lib/libglfw.so)
+    set(GLEW_LINK ${DIRECTORY}\\glew\\lib\\Release\\x64\\glew32.lib)
+    set(GLFW_LINK ${DIRECTORY}\\glfw\\lib-vc2019\\glfw3.lib)
 endif ()
 # ---- gl
+
 
 include_directories(${GLEW_H} ${GLFW_H})
 include_directories(${PROJECT_SOURCE_DIR}/base)

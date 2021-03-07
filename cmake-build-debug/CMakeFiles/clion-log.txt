@@ -1,5 +1,5 @@
-/home/xq/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.7148.70/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/xq/代码/QCPP
--- Now is UNIX-like OS's.
+"C:\Program Files\JetBrains\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\XQ\Desktop\Codes\QCPP
+-- Now is windows
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/xq/代码/QCPP/cmake-build-debug
+-- Build files have been written to: C:/Users/XQ/Desktop/Codes/QCPP/cmake-build-debug

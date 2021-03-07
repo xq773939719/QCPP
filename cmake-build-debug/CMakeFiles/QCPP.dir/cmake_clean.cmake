@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "../build/bin/QCPP"
+  "../build/bin/QCPP.exe"
+  "../build/bin/QCPP.exe.manifest"
+  "../build/bin/QCPP.lib"
   "../build/bin/QCPP.pdb"
-  "CMakeFiles/QCPP.dir/main.cpp.o"
+  "CMakeFiles/QCPP.dir/main.cpp.obj"
 )
 
 # Per-language clean rules from dependency scanning.
