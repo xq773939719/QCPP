@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc ..\..\..\build\lib\libBase.a  CMakeFiles/Base.dir/q_time.cpp.obj
-C:\MinGW\bin\ranlib.exe ..\..\..\build\lib\libBase.a
