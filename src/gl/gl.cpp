@@ -19,7 +19,7 @@ GL::GL() {
 }
 
 GL::~GL() {
-    std::cout << "GL()" << std::endl;
+    std::cout << "~GL()" << std::endl;
 }
 
 void GL::CreateWindow() {
