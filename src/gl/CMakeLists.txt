@@ -29,6 +29,8 @@ elseif (UNIX)
     # 添加目标链接
     set(GLEW_LINK ${DIRECTORY}/lib/libGLEW.so)
     set(GLFW_LINK ${DIRECTORY}/lib/libglfw.so)
+
+    link_libraries(-lGLEW -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi)
 elseif (WIN32)
     # fail
     set(DIRECTORY D:\\\\LIBRARY\\)
@@ -46,7 +48,7 @@ endif ()
 include_directories(${GLEW_H} ${GLFW_H})
 include_directories(${PROJECT_SOURCE_DIR}/base)
 
-link_libraries(${OPENGL} ${GLEW_LINK} ${GLFW_LINK} -lGL -lglut)
+link_libraries(${OPENGL} ${GLEW_LINK} ${GLFW_LINK})
 
 # 查找当前目录下的所有源文件
 # 并将名称保存到 DIR_LIB_SRCS 变量
